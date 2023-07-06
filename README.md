@@ -1,4 +1,4 @@
-# Architect-s-Portfolio
+# e-Portfolio for an Architect 
 
 Website Overview
 The is a Portfolio website designed to be a visually appealing and interactive platform for an Architect.
